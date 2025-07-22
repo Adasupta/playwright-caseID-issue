@@ -1,0 +1,26 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Solution/IDE files
+slnx.sqlite
+VSWorkspaceState.json
+ProjectSettings.json
+DocumentLayout.json
+TestStore/
+/tests/project.spec.js
