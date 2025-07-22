@@ -1,0 +1,98 @@
+﻿{
+    "form": {
+        "title": "Create New Client",
+        "fields": [
+            {
+                "label": "Name",
+                "value": "TestClient"
+            },
+            {
+                "label": "Address",
+                "value": "501 Kansas ave"
+            },
+            {
+                "label": "City",
+                "value": "Kansas City"
+            },
+            {
+                "label": "State / Province / Region",
+                "value": "Kansas"
+            },
+            {
+                "label": "Postal Code",
+                "value": "66105"
+            },
+            {
+                "label": "Country",
+                "type": "dropdown",
+                "options": [
+                    "Canada"
+
+                ]
+            },
+            {
+                "label": "Country Flag",
+                "type": "dropdown",
+                "countryCodes": [
+                    {
+                        "country": "Canada",
+                        "code": "+1",
+                        "flag": "ca"
+                    }
+                ]
+            },
+            {
+                "label": "Phone Number",
+                "value": "816-739-8072"
+            },
+
+            {
+                "label": "Enable Client Billing",
+                "type": "checkbox",
+                "checked": true
+
+            },
+            {
+                "label": "Use Shared Database for Projects",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable Translation",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable Privilege Detector",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable AI Text Summarization",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable Transcription",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable Microsoft Teams/Modern Attachments",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable Predictive Coding",
+                "type": "checkbox",
+                "checked": false
+            },
+            {
+                "label": "Enable AI Model",
+                "type": "checkbox",
+                "checked": false
+            }
+        ]
+        
+    }
+}

@@ -1,0 +1,30 @@
+{
+
+    "project": {
+        "name": "TestProj",
+        "description": "Automation",
+        "importSettings": {
+            "client": null,
+            "project": "Auto200",
+            "options": {
+                "Users": true,
+                "Saved searches": false,
+                "Templates": true,
+                "Project settings": true,
+                "Folders": true,
+                "Coding Forms": false,
+                "Fields": false
+            }
+        },
+                "timeZone": "(UTC+00:00) Coordinated Universal Time",
+                "filterPromotionOptions": {
+                    "enableNearDupeThreading": true,
+                    "enablePIIPHI": false,
+                    "enableEntityIdentification": false
+                },
+                "defaultOCRLanguage": "English",
+                "contractCode": ""
+            }
+        
+    
+}
